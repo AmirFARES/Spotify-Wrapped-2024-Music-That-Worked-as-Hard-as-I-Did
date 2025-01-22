@@ -56,10 +56,10 @@ Explore the interactive dashboard for a visual breakdown of the insights:
    ![Playtime Trends](https://github.com/AmirFARES/Spotify-Wrapped-2024-Music-That-Worked-as-Hard-as-I-Did/blob/main/imgs/insight_1.png)  
 
 2. **Top Songs and Artists**: Discover my most loved and most skipped tracks.  
-   ![Top Songs](https://github.com/AmirFARES/Spotify-Wrapped-2024/blob/main/imgs/top-songs.png)  
+   ![Top Songs](https://github.com/AmirFARES/Spotify-Wrapped-2024-Music-That-Worked-as-Hard-as-I-Did/blob/main/imgs/insight_3.png)
 
 3. **Platform Preferences**: A clear picture of my platform usage.  
-   ![Platforms](https://github.com/AmirFARES/Spotify-Wrapped-2024/blob/main/imgs/platforms.png)  
+   ![Platforms](https://github.com/AmirFARES/Spotify-Wrapped-2024-Music-That-Worked-as-Hard-as-I-Did/blob/main/imgs/insight_4.png) 
 
 ## Conclusion 🌱  
 
