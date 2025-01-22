@@ -1,6 +1,6 @@
 # Spotify Wrapped 2024: Music That Worked as Hard as I Did 🎶💼
 
-![Project Image](https://github.com/AmirFARES/Spotify-Wrapped-2024-Music-That-Worked-as-Hard-as-I-Did/blob/main/imgs/cover.png)
+![Project Image](https://github.com/AmirFARES/Spotify-Wrapped-2024-Music-That-Worked-as-Hard-as-I-Did/blob/main/imgs/dashobard.png)
 
 ## Introduction 🌟
 
